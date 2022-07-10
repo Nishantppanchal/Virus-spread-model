@@ -1,5 +1,9 @@
 # Project
 This project required me to model the spread of a virus within a computer network. This project was an assignment in VCE Algorithmics units 3&4.
+
+Libraries used:
+ * [Pynode](https://alexsocha.github.io/pynode/)
+
 # Documentation
 Here I will talk about my model.
 ## Aspects of the project
